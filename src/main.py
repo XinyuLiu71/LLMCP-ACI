@@ -12,7 +12,7 @@ if __name__ == "__main__":
         )
     openai_client = OpenAI(api_key=OAI_KEY)
     prompt = "Tell me a paragraph bio of Percy Liang"
-    model = "gpt-4"
+    model = "gpt-4o"
     output = query_model(openai_client, prompt, model)
     # Copied threshold from /factscore_a=1_alpha=0.15_conf=frequency+gpt.txt.
     # Compute new ones by running factscore.py with desired parameters and setting compute_single_threshold=True

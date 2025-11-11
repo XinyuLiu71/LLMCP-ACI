@@ -1,0 +1,164 @@
+API Key Test Results
+================================================================================
+
+Total keys tested: 50
+Valid keys: 0
+Invalid keys: 50
+
+================================================================================
+VALID API KEYS:
+--------------------------------------------------------------------------------
+
+================================================================================
+INVALID API KEYS:
+--------------------------------------------------------------------------------
+sk-5678efgh5678efgh5678efgh5678efgh5678efgh
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-5678e*******************************efgh. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-efgh5678efgh5678efgh5678efgh5678efgh5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-efgh5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234abcd1234abcd1234abcd1234abcd1234abcd
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234a*******************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcd1234abcd1234abcd1234abcd1234abcd1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcd1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcdef1234567890abcdef1234567890abcdef12
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcde*******************************ef12. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-7890abcdef7890abcdef7890abcdef7890abcd
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-7890a*****************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234567890abcdef1234567890abcdef12345678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-12345*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcdefabcdefabcdefabcdefabcdefabcdef12
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcde*****************************ef12. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijkl1234ijkl1234ijkl1234ijkl1234ijkl1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijkl1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-mnop5678mnop5678mnop5678mnop5678mnop5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-mnop5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234ijkl1234ijkl1234ijkl1234ijkl1234ijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234i*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-qrst1234qrst1234qrst1234qrst1234qrst1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-qrst1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-uvwx5678uvwx5678uvwx5678uvwx5678uvwx5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-uvwx5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-qrst5678qrst5678qrst5678qrst5678qrst5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-qrst5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-5678mnop5678mnop5678mnop5678mnop5678mnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-5678m*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnop1234qrstijklmnop1234qrstijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-5678ijkl1234mnop5678ijkl1234mnop5678ijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-5678i*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234abcd5678efgh1234abcd5678efgh1234abcd
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234a*******************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-mnopqrstuvwxabcdmnopqrstuvwxabcdmnopqrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-mnopq*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcdqrstefghuvwxabcdqrstefghuvwxabcdqrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcdq*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-uvwx1234uvwx1234uvwx1234uvwx1234uvwx1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-uvwx1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234uvwx5678abcd1234uvwx5678abcd1234uvwx
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234u*******************************uvwx. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-efghijkl5678mnopabcd1234efghijkl5678mnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-efghi*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcd1234efgh5678abcd1234efgh5678abcd1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcd1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234ijklmnop5678ijklmnop1234ijklmnop5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234i*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-qrstefghuvwxabcdqrstefghuvwxabcdqrstefgh
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-qrste*******************************efgh. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-uvwxijklmnop1234uvwxijklmnop1234uvwxijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-uvwxi*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234qrstuvwxabcd1234qrstuvwxabcd1234qrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234q*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcd5678efgh1234abcd5678efgh1234abcd5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcd5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-mnopabcd1234efghmnopabcd1234efghmnopabcd
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-mnopa*******************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234ijkl5678mnop1234ijkl5678mnop1234ijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234i*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-mnopqrstijkl5678mnopqrstijkl5678mnopqrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-mnopq*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnop5678efghijklmnop5678efghijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnopuvwx1234ijklmnopuvwx1234ijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklqrst5678uvwxijklqrst5678uvwxijklqrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklq*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-efghijklmnop5678efghijklmnop5678efghijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-efghi*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234uvwxabcd5678uvwxabcd1234uvwxabcd5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234u*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcdqrstefgh5678abcdqrstefgh5678abcdqrst
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcdq*******************************qrst. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-efgh5678abcd1234efgh5678abcd1234efgh5678
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-efgh5*******************************5678. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcd1234qrstuvwxabcd1234qrstuvwxabcd1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcd1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234efgh5678ijkl1234efgh5678ijkl1234efgh
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234e*******************************efgh. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-5678mnopqrstuvwx5678mnopqrstuvwx5678mnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-5678m*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcdijkl1234uvwxabcdijkl1234uvwxabcdijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcdi*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-5678ijklmnopabcd5678ijklmnopabcd5678ijkl
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-5678i*******************************ijkl. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnopabcd5678ijklmnopabcd5678ijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-ijklm*******************************mnop. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-abcd1234efgh5678abcd1234efgh5678abcd1234
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-abcd1*******************************1234. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+sk-1234efghqrstuvwx1234efghqrstuvwx1234efgh
+  Error: Authentication failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234e*******************************efgh. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
