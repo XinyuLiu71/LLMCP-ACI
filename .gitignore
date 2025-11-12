@@ -5,3 +5,5 @@ configs/keys.ini
 # dont commit venv and ide stuff
 venv
 .idea
+# dont commit large data files
+ACI/MMLU/mmlu_with_aps_scores.csv
